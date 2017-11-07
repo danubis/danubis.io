@@ -1,2 +1,0 @@
-# danubis.io
-Personal Blog
